@@ -12,6 +12,7 @@ This Arduino-based script enables the control of exhaust valves using a single O
 ## Hardware Requirements
 
 - **Arduino Board**: Compatible with most Arduino boards.
+- **OEM Exhaust button**: Some kind of exhaust button on the car that you can tap into.
 - **Remote Fob Button**: The wires need to be soldered directly to the PCB of a remote fob, where the button used for toggling the exhaust valve state is.
 - **LED**: An optional LED for visual feedback on the system's status.
 
