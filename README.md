@@ -1,6 +1,6 @@
 # Exhaust Valve Control Script
 
-This Arduino-based script enables the control of exhaust valves using a single OEM button, offering a straightforward and efficient method for toggling the exhaust system between open and closed states. The script is uniquely designed for automotive enthusiasts looking to enhance their vehicle's exhaust sound with the press of a button, without the need for extensive modifications or multiple controls. It interfaces directly with the PCB of a remote fob button, eliminating the need for external relays.
+This Arduino-based script enables the control of exhaust valves using a single OEM button, offering a straightforward and efficient method for toggling the exhaust system between open and closed states. It interfaces directly with the PCB of a remote fob button, eliminating the need for external relays.
 
 ## Features
 
